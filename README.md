@@ -20,6 +20,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests pa
 
 ## Autor
 
-Desenvolvido por [LkDeveloper] ([seu perfil do GitHub](https://github.com/lucasdeveloperx))
+Desenvolvido por [LkDeveloper] ([LkDeveloper](https://github.com/lucasdeveloperx))
 
 ![Exemplo de Calculadora de Teorema de Pitágoras](https://media.discordapp.net/attachments/1228097262157172736/1228107128821252146/image.png?ex=662ad6e4&is=661861e4&hm=4cdb619dbf9b7dd46eff010d1559ff79647beceae12ac9295515f2a2fac774dc&=&format=webp&quality=lossless&width=1010&height=479)
